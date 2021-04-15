@@ -8,13 +8,16 @@ Rising temperatures, extreme weather, and natural disasters are experienced glob
 
 ## How have emissions changed over time?
 ##### *Analysis by Lauren McCarthy*
-![Average Global CO2 Emissions (1950-2019)](/Final-Images/AvgGlobalCO2.png)
 
 Global emissions have been rising over the years - with average CO2 emissions being the largest contributor overtime. The majority of greenhouse gases include Carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O). Within our dataset, there was a drastic increase in average global CO2 emissions from 128.58 million metric tons to 566.97 million metric tons over the time span of 1950 to 2019. Within this increase, there is large variability in emissions around the world with some countries contributing significantly more to overall emissions than others. 
+
+![Average Global CO2 Emissions (1950-2019)](/Final-Images/AvgGlobalCO2.png)
 
 ![CO2 Emissions by Country (1950-2019)](/Final-Images/CountryChangeCO2.png)
 
 In some of the already higher contributing countries, China and the US  stand out in terms of CO2 emission since the 1950’s. Even when considering a shorter span of time from 2000 to 2013, there is a notable increase in CO2 emissions (454.89 million metric tons to 647.04 millions metric tons). It is clear that emissions have been increasing over time around the world.
+
+![Average Global Emissions Overtime (2000-2013)](/Final-Images/AvgGlobalSplit.png)
 
 ## Is there a correlation between population growth and climate change?
 ##### *Analysis by Shalyn Lavoie*
