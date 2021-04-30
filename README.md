@@ -1,6 +1,6 @@
 # Climate Change
 ## Project 1 - UNC Data Bootcamp
-## [Shalyn Lavoie](https://github.com/shalynalavoie) | [Lauren McCarthy](github.com/lamccart15) | [Nicole Pierre](https://github.com/nicpie-bit) | [Moriah Taylor](https://github.com/moriahtaylor1)
+## [Shalyn Lavoie](https://github.com/shalynalavoie) | [Lauren McCarthy](https://github.com/lamccart15) | [Nicole Pierre](https://github.com/nicpie-bit) | [Moriah Taylor](https://github.com/moriahtaylor1)
 ### April 17, 2021
 
 ## Introduction
